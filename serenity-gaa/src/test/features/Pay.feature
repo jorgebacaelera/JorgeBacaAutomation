@@ -24,7 +24,7 @@ Característica: Realizar compra de productos desde la web Demoblaze
     Entonces deberá visualizar el mensaje de éxito de compra
 
     Ejemplos:
-      | user                          | password   | producto          | producto2     |
-      | jorgebacaelera444@yopmail.com | Abc123456$ | Samsung galaxy s6 | Iphone 6 32gb |
-      | vanessaprueba4443@yopmail.com | Abc123456$ | Sony vaio i5      | HTC One M9    |
+      | user                           | password   | producto          | producto2     |
+      | jorgebacaelera8434@yopmail.com | Abc123456$ | Samsung galaxy s6 | Iphone 6 32gb |
+      | vanessaprueba48243@yopmail.com | Abc123456$ | Sony vaio i5      | HTC One M9    |
 
